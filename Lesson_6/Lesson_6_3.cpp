@@ -1,8 +1,8 @@
-#include <iostream>
+ï»¿#include <iostream>
 
 int main() {
 
-	//vtc == ¼öÁ÷(VerTiCal) , hrzt == ¼öÆò(HoRiZonTal)
+	//vtc == ìˆ˜ì§(VerTiCal) , hrzt == ìˆ˜í‰(HoRiZonTal)
 	for (int vtc = 0; vtc <= 4; vtc++) {
 		for (int hrzt = 0; hrzt <= vtc; hrzt++) {
 
