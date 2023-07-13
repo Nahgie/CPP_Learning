@@ -1,4 +1,4 @@
-# CPP_Learning
+# CPP_BASIC
 
 ### 영진닷컴에서 출판한 "그림으로 배우는 C++ Programming Basic"(개정판)을 보면서 기초 공부를 하고 있습니다. 
 ### ( May 13, 2023 ~ May 22, 2023 ) -完-
